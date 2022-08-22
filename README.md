@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamgurjitsingh
 - 👀 I’m interested in eCommerce
-- 🌱 I’m currently learning Magento 2 & Shopify
+- 🌱 I’m currently working in PHP, Zendm, Docker, Magento 2 & Shopify
 - 💞️ I’m looking to collaborate on Magento
 - 📫 How to reach me gurjit.singh.dev@gmail.com
 
