@@ -2,7 +2,7 @@
 # Hi there, I'm Gurjit Singh - Software Developer 👋
 
 - 👀 I’m interested in Web Development, eCommerce and AI Tools
-- 🌱 I’m currently working in PHP, Zend, Laravel, CI/CD, Kubernetes, Docker, k8s, WordPress, Magento & Shopify
+- 🌱 I’m currently working in PHP, Zend, Laravel, CI/CD, Kubernetes, Docker, Node, WordPress, Magento & Shopify
 - 💞️ I’m looking to collaborate with developers on Laravel, Magento, Docker, Node, Web Apps
 - 🥅 2024 goals: Not decided yet.
 - ⚡ Fun fact: I love to cook food!
