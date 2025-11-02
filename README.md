@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development, eCommerce and AI Tools
 - 🌱 I’m currently working in PHP, Zend, Laravel, CI/CD, Kubernetes, Docker, Node, WordPress, Magento & Shopify
 - 💞️ I’m looking to collaborate with other developers on Node, Laravel, Magento, WordPress, Docker, Node, Web Apps
-- 🥅 2024 goals: Not decided yet.
+- 🥅 2025-2026 goals: Build services.
 - ⚡ Fun fact: I love to cook food!
 - 📫 How to reach me: [gurjit.singh.dev@gmail.com](mailto:gurjit.singh.dev@gmail.com)
 
