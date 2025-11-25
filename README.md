@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with other developers on Node, Laravel, Magento, WordPress, Docker, Node, Web Apps
 - 🥅 2025-2026 goals: FOCUS
 - ⚡ Fun fact: I love to cook food!
-- 📫 How to reach me: [gurjit.singh.dev@gmail.com](mailto:gurjit.singh.dev@gmail.com)
+- 📫 How to reach me: [gurjitsinghdev@gmail.com](mailto:gurjitsinghdev@gmail.com)
 
 Check out my website: [https://iamgurjitsingh.github.io/](https://iamgurjitsingh.github.io/)
 
