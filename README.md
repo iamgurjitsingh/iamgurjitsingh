@@ -23,11 +23,11 @@ I'm a passionate software developer with expertise in building scalable web appl
 `Docker` `Kubernetes` `CI/CD` `AWS` `Linux`
 
 **AI & Tools:**  
-`OpenAI API` `LangChain` `Machine Learning` `Prompt Engineering` `AI Automation`
+`OpenAI API``Machine Learning` `Prompt Engineering` `AI Automation`
 
 ### 🌱 Currently Exploring
 
-- Advanced AI integration patterns and LLM applications
+- AI integration patterns and LLM applications
 - Building AI-powered automation tools
 - Serverless architectures and microservices
 - Real-time data processing and analytics
@@ -37,7 +37,6 @@ I'm a passionate software developer with expertise in building scalable web appl
 - 🧠 Master AI/ML integration in production environments
 - 🚀 Contribute to open-source AI projects
 - 📚 Build and share AI-powered developer tools
-- 🎖️ Achieve cloud architecture certifications
 
 ### 🤝 Let's Collaborate
 
@@ -48,9 +47,6 @@ I'm always open to collaborating on:
 - DevOps automation and containerization
 - Innovative tech solutions
 
-### 📊 GitHub Stats
-
-![Gurjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgurjitsingh&show_icons=true&theme=radical)
 
 ### ⚡ Fun Fact
 
