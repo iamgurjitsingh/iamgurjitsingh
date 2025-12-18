@@ -1,14 +1,70 @@
+# Hi there, I'm Gurjit Singh 👋
 
-# Hi there, I'm Gurjit Singh - Software Developer 👋
+## Software Developer | AI Enthusiast | Full-Stack Engineer
 
-- 👀 I’m interested in Web Development, eCommerce and AI Tools
-- 🌱 I’m currently working in PHP, Zend, Laravel, CI/CD, Kubernetes, Docker, Node, WordPress, Magento & Shopify
-- 💞️ I’m looking to collaborate with other developers on Node, Laravel, Magento, WordPress, Docker, Node, Web Apps
-- 🥅 2026 goals: Improve skills on AI and Focus
-- ⚡ Fun fact: I love to cook food!
-- 📫 How to reach me: [gurjitsinghdev@gmail.com](mailto:gurjitsinghdev@gmail.com)
+I'm a passionate software developer with expertise in building scalable web applications and integrating cutting-edge AI solutions. I love transforming ideas into elegant, functional code.
 
-Check out my website: [https://iamgurjitsingh.github.io/](https://iamgurjitsingh.github.io/)
+### 🚀 What I Do
+
+- 🔧 Build robust eCommerce solutions and web applications
+- 🤖 Integrate AI/ML tools and APIs into real-world applications
+- ☁️ Design and deploy cloud-native applications with modern DevOps practices
+- 🎨 Create seamless user experiences across multiple platforms
+
+### 💻 Tech Stack
+
+**Languages & Frameworks:**  
+`PHP` `Laravel` `Zend` `Node.js` `JavaScript` `Python`
+
+**CMS & eCommerce:**  
+`WordPress` `Magento` `Shopify`
+
+**DevOps & Cloud:**  
+`Docker` `Kubernetes` `CI/CD` `AWS` `Linux`
+
+**AI & Tools:**  
+`OpenAI API` `LangChain` `Machine Learning` `Prompt Engineering` `AI Automation`
+
+### 🌱 Currently Exploring
+
+- Advanced AI integration patterns and LLM applications
+- Building AI-powered automation tools
+- Serverless architectures and microservices
+- Real-time data processing and analytics
+
+### 🎯 2026 Goals
+
+- 🧠 Master AI/ML integration in production environments
+- 🚀 Contribute to open-source AI projects
+- 📚 Build and share AI-powered developer tools
+- 🎖️ Achieve cloud architecture certifications
+
+### 🤝 Let's Collaborate
+
+I'm always open to collaborating on:
+- AI-powered web applications
+- eCommerce platform development
+- Open-source projects (Laravel, Node.js, WordPress, Docker)
+- DevOps automation and containerization
+- Innovative tech solutions
+
+### 📊 GitHub Stats
+
+![Gurjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgurjitsingh&show_icons=true&theme=radical)
+
+### ⚡ Fun Fact
+
+When I'm not coding, you'll find me experimenting in the kitchen - I believe cooking and coding share the same creative process: mix the right ingredients, follow best practices, and add your personal touch! 👨‍🍳
+
+### 📫 Get In Touch
+
+- 🌐 Website: [iamgurjitsingh.github.io](https://iamgurjitsingh.github.io/)
+- 📧 Email: [gurjitsinghdev@gmail.com](mailto:gurjitsinghdev@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/iamgurjitsingh/)
+
+---
+
+💡 *"Turning coffee into code and ideas into reality, one commit at a time."*
 
 <!---
 iamgurjitsingh/iamgurjitsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
