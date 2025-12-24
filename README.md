@@ -9,7 +9,6 @@ I'm a passionate Specialist Software Engineer with expertise in building scalabl
 - 🔧 Build robust eCommerce solutions and web applications
 - 🤖 Integrate AI/ML tools and APIs into real-world applications
 - ☁️ Design and deploy cloud-native applications with modern DevOps practices
-- 🎨 Create seamless user experiences across multiple platforms
 
 ### 💻 Tech Stack
 
