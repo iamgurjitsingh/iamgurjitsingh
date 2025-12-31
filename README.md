@@ -1,4 +1,4 @@
-# Hi there, I'm Gurjit Singh 
+# Hi there, I'm Gurjit Singh 👋
 
 ## Specialist Software Engineer | AI Enthusiast | Full-Stack Engineer
 
