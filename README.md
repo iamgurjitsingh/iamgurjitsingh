@@ -13,7 +13,7 @@ I'm a passionate Specialist Software Engineer with expertise in building scalabl
 ### 💻 Tech Stack
 
 **Languages & Frameworks:**  
-`PHP` `Laravel` `Zend` `Node.js` `JavaScript` `Python`
+`PHP` `Laravel` `Zend` `Node.js` `JavaScript` `TypeScript` `Python` 
 
 **CMS & eCommerce:**  
 `WordPress` `Magento` `Shopify`
