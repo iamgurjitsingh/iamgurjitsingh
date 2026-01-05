@@ -49,7 +49,7 @@ I'm always open to collaborating on:
 
 ### ⚡ Fun Fact
 
-When I'm not coding, you'll find me experimenting in the kitchen - I believe cooking and coding share the same creative process: mix the right ingredients, follow best practices, and add your personal touch! 👨‍🍳
+When I'm not coding, you'll find me experimenting in the kitchen - I believe cooking and coding share the same creative process: mix the right ingredients, follow best practices, and add your personal touch!
 
 ### 📫 Get In Touch
 
