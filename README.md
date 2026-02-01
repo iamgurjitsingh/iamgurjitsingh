@@ -1,6 +1,6 @@
 # Hi there, I'm Gurjit Singh 👋
 
-## Specialist Software Engineer | AI Enthusiast | Full-Stack Engineer
+## Specialist Software Engineer | AI Enthusiast | Full-Stack Engineer | SRE 
 
 I'm a passionate Specialist Software Engineer with expertise in building scalable web applications and integrating cutting-edge AI solutions. I love transforming ideas into elegant, functional code.
 
