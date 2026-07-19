@@ -22,7 +22,7 @@ I'm a passionate Specialist Software Engineer with expertise in building scalabl
 `Docker` `Kubernetes` `CI/CD` `AWS` `Linux`
 
 **AI & Tools:**  
-`OpenAI API` `Machine Learning` `Prompt Engineering` `AI Automation`
+`Claude Code` `OpenAI API` `Machine Learning` `Prompt Engineering` `AI Automation`
 
 ### 🌱 Currently Exploring
 
