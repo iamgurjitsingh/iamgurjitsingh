@@ -33,9 +33,9 @@ I'm a passionate Specialist Software Engineer with expertise in building scalabl
 
 ### 🎯 2026 Goals
 
-- 🧠 Master AI/ML integration in production environments
-- 🚀 Contribute to open-source AI projects
-- 📚 Build and share AI-powered developer tools
+- Master Claude Agentic AI
+- Contribute to open-source AI projects
+- Build and share AI-powered developer tools
 
 ### 🤝 Let's Collaborate
 
